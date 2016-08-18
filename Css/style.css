@@ -66,4 +66,12 @@ margin-top: 0;
 	margin-left: 0;
 	}
 }
-/* ####### Acá va su código ####### */
+/* ####### paso3 ####### */
+#contentwrapper {
+	background-color:#CCCC00;
+	font-family: Arial;
+	
+}
+#contentwrapper h1 {
+	text-align: center;
+}
