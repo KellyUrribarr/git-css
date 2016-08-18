@@ -68,11 +68,12 @@ margin-top: 0;
 }
 /* ####### Acá va su código ####### */
 
-/*estilo css de la tabla*/
-
-table th {
-
+/* ####### paso3 ####### */
+#contentwrapper {
+	background-color:#CCCC00;
 	font-family: Arial;
-	font-size: 14px;
-	background-color: #7DFF99;
+	
+}
+#contentwrapper h1 {
+	text-align: center;
 }
