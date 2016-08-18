@@ -67,3 +67,12 @@ margin-top: 0;
 	}
 }
 /* ####### Acá va su código ####### */
+
+/*estilo css de la tabla*/
+
+table th {
+
+	font-family: Arial;
+	font-size: 14px;
+	background-color: #7DFF99;
+}
